@@ -1,0 +1,31 @@
+/*DESIGN FOR THE MAIN CONTAINTER  576px;*/
+body {
+  background-color: #7e94f2;
+	/* other candidates: #27255e #e9b0aa; #ffffff*/
+}
+
+
+#Cont {
+	max-width: 700px;
+	margin-top: 3vh
+  }
+
+#BioBox{
+	background-color: #ffffff;
+	border: 10px solid  #27255e; 	/* other candidates:#fecd04 #376ed8 #4056a1 #fab32a*/
+	max-width: 700px;
+	margin-top: 3vh
+  }
+
+.underline{
+	background-color: #ffffff;
+  max-width: 576px;
+  color: #7e94f2;
+  font-variant: small-caps;
+	border-bottom: 1.5px dotted  #fab32a; 	/* other candidates: #ababab #3C455C*/
+  }
+
+#Name{
+	color: #ffffff;
+  font-variant: small-caps;
+  }
